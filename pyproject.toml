@@ -15,7 +15,7 @@ python = ">=3.10,<3.12"
 ampel-ztf = {extras = ["archive"], version = "^0.10.0"}
 ampel-interface = "<=0.10.3"
 astropy = ">=5.1,<7.0"
-astropy-healpix = ">=0.6,<1.1"
+astropy-healpix = ">=0.6,<1.2"
 astroquery = "==0.4.6"
 backoff = ">=2.0"
 geopandas = ">=0.11,<1.1"
